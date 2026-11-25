@@ -1,0 +1,3 @@
+Opens the Nano text editor and creates a requirements file if it doesnot exist
+FLASK
+PYTEST
